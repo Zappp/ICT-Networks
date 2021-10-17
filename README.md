@@ -1,1 +1,1 @@
-# Course of study: ICT Networks
+# Course: ICT Networks
